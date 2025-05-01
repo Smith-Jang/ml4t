@@ -20,7 +20,7 @@
 ### **4. 스터디 운영 계획 (2025년 5월 10일 ~ 2025년 8월 30일)**
 
 #### **2025년 5월 10일**: [Webex](https://lgehq.webex.com/lgehq-en/j.php?MTID=mebff409f9da191e9e2c17a6e815224b6)
-- 발표자 - TBD
+- 발표자 - 민호
   - **Chapter 1: Foundations of Capital Markets**  
     - 시장 구조, 참가자, 데이터 피드, 거래 비용, 자산 및 파생상품 기본 개념 학습
 
